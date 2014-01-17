@@ -1,0 +1,28 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MFCLabWidget", "MFCLabWidget\MFCLabWidget_vc9.vcproj", "{F69EF843-7FB8-4654-884F-DAC2F0C82615}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestMFC", "TestMFC\TestMFC_vc9.vcproj", "{6E4F2AE3-704B-4AE0-A5C3-DA2283943B70}"
+EndProject
+Global
+	GlobalSection(DPCodeReviewSolutionGUID) = preSolution
+		DPCodeReviewSolutionGUID = {00000000-0000-0000-0000-000000000000}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F69EF843-7FB8-4654-884F-DAC2F0C82615}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F69EF843-7FB8-4654-884F-DAC2F0C82615}.Debug|Win32.Build.0 = Debug|Win32
+		{F69EF843-7FB8-4654-884F-DAC2F0C82615}.Release|Win32.ActiveCfg = Release|Win32
+		{F69EF843-7FB8-4654-884F-DAC2F0C82615}.Release|Win32.Build.0 = Release|Win32
+		{6E4F2AE3-704B-4AE0-A5C3-DA2283943B70}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6E4F2AE3-704B-4AE0-A5C3-DA2283943B70}.Debug|Win32.Build.0 = Debug|Win32
+		{6E4F2AE3-704B-4AE0-A5C3-DA2283943B70}.Release|Win32.ActiveCfg = Release|Win32
+		{6E4F2AE3-704B-4AE0-A5C3-DA2283943B70}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
